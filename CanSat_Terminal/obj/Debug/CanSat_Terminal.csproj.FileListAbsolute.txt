@@ -1,0 +1,10 @@
+C:\Users\duart\source\repos\CanSat_Terminal\bin\Debug\CanSat_Terminal.exe.config
+C:\Users\duart\source\repos\CanSat_Terminal\bin\Debug\CanSat_Terminal.exe
+C:\Users\duart\source\repos\CanSat_Terminal\bin\Debug\CanSat_Terminal.pdb
+C:\Users\duart\source\repos\CanSat_Terminal\obj\Debug\CanSat_Terminal.csprojAssemblyReference.cache
+C:\Users\duart\source\repos\CanSat_Terminal\obj\Debug\CanSat_Terminal.Properties.Resources.resources
+C:\Users\duart\source\repos\CanSat_Terminal\obj\Debug\CanSat_Terminal.csproj.GenerateResource.cache
+C:\Users\duart\source\repos\CanSat_Terminal\obj\Debug\CanSat_Terminal.csproj.CoreCompileInputs.cache
+C:\Users\duart\source\repos\CanSat_Terminal\obj\Debug\CanSat_Terminal.exe
+C:\Users\duart\source\repos\CanSat_Terminal\obj\Debug\CanSat_Terminal.pdb
+C:\Users\duart\source\repos\CanSat_Terminal\obj\Debug\CanSat_Terminal.View.resources
